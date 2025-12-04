@@ -2,8 +2,8 @@
 
 #### 1. Clone this repository
 ```bash
-git clone https://github.com/LLaVA-VL/LLaVA-NeXT-YT
-cd LLaVA-NeXT-YT
+git clone https://github.com/ummay-kulsum18/Adv_DL_Project
+cd Adv_DL_Project
 ```
 
 #### 2. Set up the environment and install dependencies
